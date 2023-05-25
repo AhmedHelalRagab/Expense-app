@@ -8,7 +8,7 @@ Filter expense items by year.
 To get a local copy of this project up and running, follow these steps:
 
 Clone this repository: git clone https://github.com/AhmedHelalRagab/Expense-app.git
-Navigate to the project directory: cd expense-tracker.
+Navigate to the project directory: cd my-app.
 Install the dependencies: npm install.
 Start the development server: npm start.
 Open your browser and visit http://localhost:3000 to view the application.
